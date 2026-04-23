@@ -1,6 +1,6 @@
 import { appendFileSync } from "fs";
 
-const host = process.env.HOST || "ikuuu.fyi";
+const host = process.env.HOST || "ikuuu.win";
 
 const checkInUrl = `https://${host}/user/checkin`;
 
